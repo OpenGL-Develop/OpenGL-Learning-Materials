@@ -2,9 +2,11 @@
 关于OpenGL学习目前比较全的资料
 
 
-中文资料：
+资料：
 
 [LearnOpenGL CN - 中文翻译][1]
+
+
 [LearnOpenGL CN - 英文原版][2]
 
 
